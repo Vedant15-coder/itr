@@ -1,0 +1,30 @@
+body{
+    background-color:lightgoldenrodyellow;
+}
+h1{
+ color: brown;background-color: black;
+ text-align: center;
+}
+p{
+    color:black; font-size: larger;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.box{
+    width: 200px;
+    height: 200px;
+}
+body{
+    text-align: center;
+}
+  
